@@ -86,7 +86,7 @@ inverterlab_simulador-ad600m/
                               # localmente, deixando o simulador 100% offline
 ```
 
-### Sobre o `scripts/baixar-fontes.js`
+### Sobre o `scripts/baixar-fontes.js `
 
 Por padrão, o InverterLab carrega as fontes (Roboto Condensed e JetBrains Mono) do Google Fonts pela internet. Esse script opcional baixa essas fontes e as referencia localmente, para quem quiser um pacote totalmente independente de internet (por exemplo, para distribuir em computadores de laboratório sem acesso à rede). Requer Node.js instalado:
 
